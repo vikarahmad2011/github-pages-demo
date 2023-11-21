@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Vikar Ahmad has upskill skill and apply whatever getting project!
+          Hello Vikar Ahmad,  Proper knowledge is being upskilled because of Swarna Prabhu. because he has created upskill plan.!
         </a>
       </header>
     </div>
