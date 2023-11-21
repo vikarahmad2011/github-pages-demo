@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Vikar Ahmad!
+          Hello Vikar Ahmad has upskill skill and apply whatever getting project!
         </a>
       </header>
     </div>
